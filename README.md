@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I'm Nikhil a data analyst and builder focused on sports analytics and AI-driven solutions.<br>I combine machine learning, generative AI, and deep learning with strong SQL and visualization skills to turn complex datasets into strategic insights. Whether it's uncovering performance edges in sports, engineering intelligent AI pipelines, or building dashboards that accelerate decisions, I focus on solutions that scale and deliver impact.<br><br>My approach blends technical rigor with creative problem-solving. I've proven this through competitive wins and hands-on projects spanning NLP, workflow automation, and end-to-end analytics systems.<br>I thrive in environments that value experimentation, data-driven thinking, and shipping real solutions.<br>Currently building with agentic workflows and LLMs, while sharpening my edge in sports analytics and data-driven decision systems.
 
